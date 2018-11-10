@@ -2,6 +2,8 @@
 
 This is an SDK for the [Aeternity](https://www.aeternity.com/) Epoch API for the Rust programming language.
 
+The SDK is in a very early stage of development.
+
 ## Documentation for API Endpoints
 
 ### API version: 0.25.0
